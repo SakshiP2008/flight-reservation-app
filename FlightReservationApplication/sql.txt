@@ -246,7 +246,7 @@ VALUES ('6E150', 'Indore', 'Patna', '2025-01-09', '2025-01-09 19:15:00');
 
 -- Indore to Dehradun flight
 INSERT INTO Flight (flightNumber, origin, destination, departureDate, departureTime)
-VALUES ('SG151', 'Indore', 'Dehradun', '2025-01-10', '2025-01-10 07:45:00');
+VALUES ('SG151', 'Indore', 'Dehradun', '2026-01-01', '2026-01-01 07:45:00');
 
 
 -------------------------------------------------------------------------
